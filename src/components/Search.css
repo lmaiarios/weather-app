@@ -1,0 +1,13 @@
+.pesquisaWrapper{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.pesquisaForm{
+    font-family: "Comic Sans MS";
+}
+
+.pesquisa{
+    margin: 10px;
+}
